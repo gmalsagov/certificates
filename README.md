@@ -1,4 +1,5 @@
 # My Certificates
+* Architecting on AWS
 * Cloud Computing: The Big Picture
 * Tensorflow Getting Started
 * Python Fundamentals
